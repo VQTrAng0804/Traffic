@@ -1,0 +1,44 @@
+﻿number,sign
+0,Maximum speed limit (20 km/h)
+1,Maximum speed limit (30 km/h)
+2,Maximum speed limit (50 km/h)
+3,Maximum speed limit (60 km/h)
+4,Maximum speed limit (70 km/h)
+5,Maximum speed limit (80 km/h)
+6,End of the previously signed speed limit
+7,Maximum speed limit (100 km/h)
+8,Maximum speed limit (120 km/h)
+9,No overtaking
+10,No overtaking by trucks
+11,Road junction with priority
+12,Main road
+13,Give way
+14,Stop
+15,Closed to all vehicles
+16,Trucks
+17,No entry
+18,Other danger
+19,Curve to left
+20,Curve to right
+21,Double curve first to left
+22,Uneven road
+23,Slippery road
+24,Road narrows ahead on the right side
+25,Construction ahead
+26,Traffic lights ahead
+27,Pedestrian crossing
+28,Children
+29,Bicycle crossing
+30,Snow
+31,Deer or wild animals
+32,End of all previously signed prohibitions
+33,Turn right
+34,Turn left
+35,Go straight
+36,Go straight right
+37,Go straight left
+38,Keep right
+39,Keep left
+40,Circulatory traffic
+41,End of no passing zone sign
+42,End of trucks overtaking prohibition
